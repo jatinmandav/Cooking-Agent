@@ -1,0 +1,70 @@
+
+*** RECIPE ***
+INGREDIENTS: onion, fresh coconut, chopped green chile pepper, chopped fresh cilantro, lemon juice, coconut oil optional, minced fresh ginger root, salt, water, puffed rice
+
+DIRECTIONS: Mix onion , grated coconut , green chile pepper , cilantro , lemon juice , coconut oil , ginger , and salt together in a bowl ; stir in water until well incorporated . Fold puffed rice into onion - coconut mixture until coated .  
+
+TUPLES: (mix, onion) -> (mix, grated coconut) -> (mix, green chile pepper) -> (mix, cilantro) -> (mix, lemon juice) -> (mix, coconut oil) -> (mix, ginger) -> (mix, water) -> (fold, puffed rice) -> (fold, onion - coconut mixture)
+
+*** RECIPE ***
+INGREDIENTS: vegetable oil, diced onion, chopped garlic, curry powder, ground ginger, ground cumin, sea salt, red pepper flake, ground coriander, cayenne pepper, celery, dried tarragon, ground cinnamon, diced potato, frozen mixed vegetable, vegetable broth, Dough, flour, pinch salt, vegetable oil, room temperature water, oil
+
+DIRECTIONS: Heat oil in a saute pan over medium heat . Add onion ; cook for 1 minute . Add garlic , curry , ginger , cumin , salt , red pepper flakes , coriander , cayenne pepper , celery seed , tarragon , and cinnamon . Cook until fragrant , 1 to 2 minutes more . Add potatoes and mixed vegetables . Cook , stirring constantly , for 3 minutes .  Pour broth into the potato mixture . Reduce heat to medium - low . Cook , stirring occasionally , until potatoes are tender and broth is mostly absorbed , 12 to 15 minutes .  Place flour in a medium bowl . Make a well in the center ; add salt , oil , and water , in that order . Mix into a stiff dough , roll into a ball , and wrap in plastic wrap . Set aside for 30 minutes .  Divide dough into 8 balls . Roll each ball into a 10 - inch circle . Cut each circle in half , moisten the edges , and shape each half into a cone around your finger . Fill dough with 1 to 2 tablespoons of the vegetable mixture . Pinch edges shut .  Heat oil in a large saucepan or deep - fryer . Deep - fry samosas in batches until lightly browned , 2 to 3 minutes . Serve hot .  
+
+TUPLES: (heat, oil) -> (add, onion) -> (add, garlic) -> (add, curry) -> (add, ginger) -> (add, cumin) -> (add, salt) -> (add, red pepper flake) -> (add, coriander) -> (add, cayenne pepper) -> (add, celery seed) -> (add, tarragon) -> (add, cinnamon) -> (add, potato) -> (add, mixed vegetable) -> (pour, potato mixture) -> (pour, potato) -> (pour, flour) -> (pour, oil) -> (pour, water) -> (fill, vegetable mixture) -> (heat, oil)
+
+*** RECIPE ***
+INGREDIENTS: pound lean ground beef, medium onion, garlic clove, ground coriander, ground cumin, salt, ground turmeric, chile powder, ground ginger, garam masala, ounce package frozen pea, water, minced pickled jalapeno pepper, lemon juice, ounce package wonton wrapper, vegetable oil
+
+DIRECTIONS: Heat a large skillet over medium heat . Add ground beef , onion , and garlic ; cook until beef is browned and crumbly , 5 to 7 minutes . Reduce heat to low .  Mix in coriander , cumin , salt , turmeric , chile powder , and ginger . Add peas and water ; bring to boil . Cover and simmer , stirring occasionally , about 25 minutes . Uncover and cook over medium heat , stirring frequently , until any remaining liquid evaporates .  Stir jalapenos and garam masala into the beef mixture . Remove from heat and stir in lemon juice ; let cool until safe to handle , at least 15 minutes .  Drop about 1 tablespoon of the beef mixture onto the center of a wonton wrapper . Moisten edges with water , fold them over the filling , and seal . Repeat with remaining filling and wonton wrappers .  Heat about 1 / 2 inch oil in a large saucepan over medium - high heat . Add samosas in batches ; fry until browned , 1 to 2 inches per side .  
+
+TUPLES: (heat, medium heat) -> (add, ground beef) -> (add, onion) -> (add, garlic) -> (add, beef) -> (mix, coriander) -> (mix, cumin) -> (mix, salt) -> (mix, turmeric) -> (mix, chile powder) -> (mix, ginger) -> (add, pea) -> (add, water) -> (boil, medium heat) -> (stir, jalapeno) -> (stir, garam masala) -> (stir, beef mixture) -> (stir, lemon juice) -> (stir, beef mixture) -> (stir, wonton wrapper) -> (stir, water) -> (stir, wonton wrapper) -> (heat, medium - high heat)
+
+*** RECIPE ***
+INGREDIENTS: ounce package frozen chopped spinach, ground cumin, curry powder, ground turmeric, cayenne pepper, cube vegetable bouillon, warm water, olive oil, red onion, clove garlic, plain Greek yogurt such Greek Gods®, ounce package cream cheese such Philadelphia®, salt pepper
+
+DIRECTIONS: Pull thawed and drained spinach apart and place it in a small bowl to use later .  Mix cumin , curry powder , turmeric , and cayenne pepper together in a bowl and set spice mixture aside .  Dissolve bouillon cube in warm water in a bowl and set aside .  Heat oil in a skillet over medium heat . Add onion and cook until soft and translucent , about 4 minutes . Add garlic and cook another 3 minutes . Add spice mixture and spinach to the skillet and stir well to combine . Pour vegetable bouillon into the skillet . Reduce heat to low and simmer until most of the moisture has cooked off , about 5 minutes . Remove from heat .  Mix yogurt and cream cheese into the spinach mixture in the skillet . Season with salt and pepper .  
+
+TUPLES: (mix, cumin) -> (mix, curry powder) -> (mix, turmeric) -> (mix, bouillon cube) -> (mix, warm water) -> (heat, oil) -> (add, onion) -> (add, garlic) -> (add, spinach) -> (pour, vegetable bouillon) -> (mix, cream cheese) -> (mix, spinach mixture) -> (mix, salt) -> (mix, pepper)
+
+*** RECIPE ***
+INGREDIENTS: ounce package Brussels sprout, chickpea flour, rice flour, ground coriander, ground cumin, powder, salt ground black pepper, water, chopped fresh cilantro, chile pepper, vegetable oil
+
+DIRECTIONS: Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer . Bring water to a boil . Add Brussels sprouts , cover , and steam until tender , about 5 minutes .  Sift chickpea and rice flour together in a large bowl ; mix in coriander , cumin , baking powder , salt , and black pepper . Whisk in enough water until pakora batter is the consistency of pancake batter . Stir in Brussels sprouts , cilantro , and chile peppers until combined .  Heat oil in a deep - fryer or large saucepan to 350 degrees F ( 175 degrees C ) .  Scoop a few tablespoons of pakora batter at a time into the hot oil . Fry until golden , about 5 minutes .  
+
+TUPLES: (add, sprout) -> (add, chickpea) -> (add, rice) -> (add, coriander) -> (add, cumin) -> (add, powder) -> (add, salt) -> (add, black pepper) -> (whisk, enough water) -> (stir, sprout) -> (stir, cilantro) -> (stir, chile pepper) -> (heat, oil)
+
+*** RECIPE ***
+INGREDIENTS: ounce container Greek yogurt, cucumber, chopped fresh mint, chopped fresh cilantro, ground cumin, salt ground black pepper
+
+DIRECTIONS: Combine Greek yogurt , cucumber , mint , cilantro , cumin , salt , and pepper in a bowl ; mix well .  
+
+TUPLES: (combine, yogurt) -> (combine, cucumber) -> (combine, mint) -> (combine, cilantro) -> (combine, cumin) -> (combine, salt) -> (combine, pepper)
+
+*** RECIPE ***
+INGREDIENTS: cream cheese, raisin, minced peeled apple, medium curry powder, lemon juice, stalk celery third
+
+DIRECTIONS: Mix cream cheese , raisins , apple , curry powder , and lemon juice until smooth . Spread onto celery .  
+
+TUPLES: (mix, cream cheese) -> (mix, raisin) -> (mix, apple) -> (mix, curry powder) -> (mix, lemon juice) -> (spread, celery)
+
+*** RECIPE ***
+INGREDIENTS: vegetable oil, diced sweet potato, diced eggplant, small onion diced small, curry powder, ground cumin, garam masala optional, vegetable broth, flour, sheet prepared pie crust
+
+DIRECTIONS: Heat vegetable oil in a large , heavy - bottomed pot over medium - high heat . Saute sweet potato , eggplant , and onion in hot oil until the onion is softened , 7 to 10 minutes ; season with curry powder , cumin , and garam masala .  Pour stock into the pot . Bring liquid to a simmer , reduce heat to medium - low , and cook until vegetables are completely tender , adding more broth as needed to keep mixture moist , 10 to 15 minutes . Remove pot from heat and set aside to let mixture cool completely .  Preheat oven to 350 degrees F ( 175 degrees C ) .  Lie each pie crust onto a lightly - floured surface . Cut each crust into 8 wedges . Spoon 2 tablespoons of the vegetable mixture into the middle of each triangle .  Bring two corners of each triangle together , pressing the dough along the edges to seal . Bring up the last corner and seal the last edge . Arrange samosas onto a baking sheet .  Bake in preheated oven until golden brown , about 45 minutes .  
+
+TUPLES: (heat, vegetable oil) -> (saute, sweet potato) -> (saute, eggplant) -> (saute, onion) -> (saute, onion) -> (saute, curry powder) -> (saute, cumin) -> (saute, garam masala) -> (pour, vegetable) -> (pour, broth) -> (pour, pie crust) -> (cut, crust) -> (cut, vegetable mixture) -> (cut, baking sheet)
+
+*** RECIPE ***
+INGREDIENTS: Patak s Mild Curry Paste, egg, ounce minced lamb, onion, tomato, olive oil, chopped fresh cilantro, flour tortilla naan bread, Salt
+
+DIRECTIONS: Heat olive oil in a pan and fry the diced onions for 2 minutes , then add the minced lamb and fry for 5 minutes .  Add the Patak ' s Mild Curry Paste and continue to fry for another 2 to 3 minutes .  Add the diced tomatoes and cook whilst stirring continuously on medium heat for 20 minutes .  When the lamb becomes tender scramble the eggs in a separate bowl , then mix in with the meat . Add the chopped coriander and remove from the heat .  Heat the tortillas or naan bread , place the lamb mixture along the centre of each and roll them up .  Optional : Place on the grill for 1 to 2 minutes on each side to add a bit of crisp to the tortillas or naan bread .  Serve hot , as a starter or as a main dish with a side salad .  
+
+TUPLES: (heat, olive oil) -> (fry, diced onion) -> (add, minced lamb) -> (add, s) -> (add, diced tomato) -> (add, lamb) -> (add, egg) -> (add, chopped coriander) -> (heat, tortilla) -> (heat, naan bread) -> (heat, lamb mixture) -> (add, tortilla) -> (add, naan bread)
+
+*** RECIPE ***
+INGREDIENTS: mango powder amchur, ground ginger, ground cumin, ground turmeric, chili powder optional, salt, vegetable oil, pound large okra, corn flour, vegetable oil
+
+DIRECTIONS: Combine mango powder , ginger , cumin , turmeric , chili powder , salt , and 1 / 2 teaspoon oil together in a bowl ; set aside for flavors to blend for 2 hours .  Heat vegetable oil in a deep - fryer or large saucepan to 350 degrees F ( 175 degrees C ) .  Trim okra and make a slit lengthwise down the side of each okra , creating a pocket . Fill each pocket with the spice mixture .  Place corn flour in a resealable plastic bag ; add filled okra and shake to coat .  Fry okra in the hot oil until golden brown , 5 to 8 minutes . Transfer fried okra using a slotted spoon to a paper towel - lined plate .  
+
+TUPLES: (combine, mango powder) -> (combine, ginger) -> (combine, cumin) -> (combine, turmeric) -> (combine, chili powder) -> (combine, salt) -> (heat, vegetable oil) -> (heat, large saucepan) -> (heat, okra) -> (heat, okra) -> (fill, corn flour) -> (add, okra) -> (fry, okra)
