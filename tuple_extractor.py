@@ -167,7 +167,7 @@ parser.add_argument('--file', '-f', help='Path to cleaned dataset', default='dat
 parser.add_argument('--num_recipes', '-n', help='Number of Recipes to process', default=10, type=int)
 args = parser.parse_args()
 
-df = pd.read_csv(args.file, sep='\t', lineterminator='\n')
+df = pd.read_csv(args.file, sep='\t')
 
 writer = open('extracted_tuples.txt', 'w')
 
