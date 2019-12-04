@@ -27,7 +27,7 @@ def process_recipe(title, ingredients, directions):
 
     return title, '|'.join(ingredients), directions
 
-df = pd.read_json('dataset/recipes.json')
+df = pd.read_json('dataset.json')
 
 titles_list = []
 ingredients_list = []
@@ -45,4 +45,4 @@ for i in tqdm(range(len(df))):
 df = pd.DataFrame([titles_list, ingredients_list, directions_list])
 df = df.transpose()
 df.columns = ['title', 'ingredients', 'directions']
-df.to_csv('dataset/processed_recipes.tsv', sep='\t', index=False)
+df.to_csv('processed_recipes.tsv', sep='\t', index=False)
